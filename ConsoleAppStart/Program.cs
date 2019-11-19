@@ -62,7 +62,7 @@ namespace ConsoleAppStart
                     }
                 case ConsoleKey.D2:
                     {
-                        baseLogic.AddClient(new Client() { FIO="Ivanov", NameCompany="Home"});
+                        baseLogic.AddClient(new Client() { FIO="Ivanov Ivan", NameCompany="Home1"});
                         break;
                     }
 
